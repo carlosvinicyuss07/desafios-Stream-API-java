@@ -2,9 +2,10 @@ package desafios;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.function.Predicate;
 
 public class Desafio02 {
+
+    // Desafio 2 - Imprima a soma dos números pares da lista:
 
     public static void main(String[] args) {
 

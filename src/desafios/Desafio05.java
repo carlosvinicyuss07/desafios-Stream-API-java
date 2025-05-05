@@ -2,9 +2,10 @@ package desafios;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.function.ToIntFunction;
 
 public class Desafio05 {
+
+    // Desafio 5 - Calcule a média dos números maiores que 5:
 
     public static void main(String[] args) {
 

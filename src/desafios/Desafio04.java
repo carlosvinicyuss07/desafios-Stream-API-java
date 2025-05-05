@@ -2,9 +2,10 @@ package desafios;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class Desafio04 {
+
+    // Desafio 4 - Remova todos os valores ímpares:
 
     public static void main(String[] args) {
 
